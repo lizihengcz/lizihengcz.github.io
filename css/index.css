@@ -4697,23 +4697,8 @@ body[data-type="about"] #web_bg {
   pointer-events: none;
   z-index: 3;
 }
-#about-page .author-content-item-group.column.mapAndInfo {
-  width: 100%;
-}
-#about-page .author-content-item-group.column {
-  -webkit-box-orient: horizontal;
-  -moz-box-orient: horizontal;
-  -o-box-orient: horizontal;
-  -webkit-flex-direction: row;
-  -ms-flex-direction: row;
-  flex-direction: row;
-}
-#about-page .author-content-item.map {
-  width: 50%;
-}
-#about-page .author-content-item.selfInfo {
-  height: 100%;
-  width: 49%;
+ {
+  body: 1;
 }
 @-moz-keyframes loading-bar {
   0% {
@@ -13123,58 +13108,58 @@ blockquote {
 #article-container ul p {
   margin: 0 0 8px;
 }
-#article-container.post-content h1:before {
+#article-container h1:before {
   margin-left: -26px;
   font-size: 20px;
 }
-#article-container.post-content h1:hover:before {
+#article-container h1:hover:before {
   color: #3b70fc;
 }
-#article-container.post-content h2:before {
+#article-container h2:before {
   margin-left: -24px;
   font-size: 18px;
 }
-#article-container.post-content h2:hover:before {
+#article-container h2:hover:before {
   color: #3b70fc;
 }
-#article-container.post-content h3:before {
+#article-container h3:before {
   margin-left: -22px;
   font-size: 16px;
 }
-#article-container.post-content h3:hover:before {
+#article-container h3:hover:before {
   color: #3b70fc;
 }
-#article-container.post-content h4:before {
+#article-container h4:before {
   margin-left: -20px;
   font-size: 14px;
 }
-#article-container.post-content h4:hover:before {
+#article-container h4:hover:before {
   color: #3b70fc;
 }
-#article-container.post-content h5:before {
+#article-container h5:before {
   margin-left: -18px;
   font-size: 12px;
 }
-#article-container.post-content h5:hover:before {
+#article-container h5:hover:before {
   color: #3b70fc;
 }
-#article-container.post-content h6:before {
+#article-container h6:before {
   margin-left: -18px;
   font-size: 12px;
 }
-#article-container.post-content h6:hover:before {
+#article-container h6:hover:before {
   color: #3b70fc;
 }
-#article-container.post-content ol p,
-#article-container.post-content ul p {
+#article-container ol p,
+#article-container ul p {
   margin: 0 0 8px;
 }
-#article-container.post-content li::marker {
+#article-container li::marker {
   color: #3b70fc;
   font-weight: 600;
   font-size: 1.05em;
 }
-#article-container.post-content li:hover::marker {
+#article-container li:hover::marker {
   color: var(--pseudo-hover);
 }
 #article-container > :last-child {
@@ -14002,6 +13987,15 @@ blockquote {
 }
 .post-tools .post-tools-left {
   width: auto;
+}
+#post .tag_share {
+  margin-bottom: 2rem;
+  -webkit-box-orient: vertical;
+  -moz-box-orient: vertical;
+  -o-box-orient: vertical;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
 }
 .relatedPosts {
   margin-top: 40px;
