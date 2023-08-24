@@ -8,7 +8,7 @@ function welcome(){
     swal({
         title: " 欢迎！",
         text: welcome_text+'\n打开页面下方音乐以获得更佳体验！',
-        imageUrl: "/img/avatar.jpg",
+        imageUrl: "/img/logo.png",
         timer: 3000,
         showConfirmButton: false
     });
