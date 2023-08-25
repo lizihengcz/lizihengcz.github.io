@@ -19,3 +19,5 @@ https://blog.lzh.life/equipment/index.html
 https://blog.lzh.life/essay/index.html
 https://blog.lzh.life/fcircle/index.html
 https://blog.lzh.life/
+https://blog.lzh.life/tags/Hexo/
+https://blog.lzh.life/categories/Hexo/
