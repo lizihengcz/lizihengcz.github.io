@@ -20,6 +20,15 @@
   </url>
   
   <url>
+    <loc>https://blog.lzh.life/link/index.html</loc>
+    
+    <lastmod>2023-08-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.lzh.life/music/index.html</loc>
     
     <lastmod>2023-08-26</lastmod>
@@ -56,15 +65,6 @@
   </url>
   
   <url>
-    <loc>https://blog.lzh.life/link/index.html</loc>
-    
-    <lastmod>2023-08-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.lzh.life/update/index.html</loc>
     
     <lastmod>2023-08-26</lastmod>
@@ -75,33 +75,6 @@
   
   <url>
     <loc>https://blog.lzh.life/wordScenery/index.html</loc>
-    
-    <lastmod>2023-08-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/essay/index.html</loc>
-    
-    <lastmod>2023-08-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/fcircle/index.html</loc>
-    
-    <lastmod>2023-08-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/archives/4a17b156.html</loc>
     
     <lastmod>2023-08-26</lastmod>
     
@@ -174,6 +147,33 @@
   
   <url>
     <loc>https://blog.lzh.life/equipment/index.html</loc>
+    
+    <lastmod>2023-08-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/essay/index.html</loc>
+    
+    <lastmod>2023-08-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/fcircle/index.html</loc>
+    
+    <lastmod>2023-08-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/archives/4a17b156.html</loc>
     
     <lastmod>2023-08-26</lastmod>
     
