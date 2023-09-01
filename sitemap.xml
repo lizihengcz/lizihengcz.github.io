@@ -11,6 +11,24 @@
   </url>
   
   <url>
+    <loc>https://blog.lzh.life/json/music.json</loc>
+    
+    <lastmod>2023-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/link/index.html</loc>
+    
+    <lastmod>2023-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.lzh.life/music/index.html</loc>
     
     <lastmod>2023-09-01</lastmod>
@@ -57,24 +75,6 @@
   
   <url>
     <loc>https://blog.lzh.life/wordScenery/index.html</loc>
-    
-    <lastmod>2023-09-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/json/music.json</loc>
-    
-    <lastmod>2023-09-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/link/index.html</loc>
     
     <lastmod>2023-09-01</lastmod>
     
