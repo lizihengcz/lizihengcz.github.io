@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.lzh.life/privacy/index.html</loc>
-    
-    <lastmod>2023-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/server-list/index.html</loc>
-    
-    <lastmod>2023-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.lzh.life/tags/index.html</loc>
     
     <lastmod>2023-09-17</lastmod>
@@ -56,6 +38,24 @@
   </url>
   
   <url>
+    <loc>https://blog.lzh.life/privacy/index.html</loc>
+    
+    <lastmod>2023-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/server-list/index.html</loc>
+    
+    <lastmod>2023-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.lzh.life/manifest.json</loc>
     
     <lastmod>2023-09-17</lastmod>
@@ -84,6 +84,60 @@
   
   <url>
     <loc>https://blog.lzh.life/music/index.html</loc>
+    
+    <lastmod>2023-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/cookies/index.html</loc>
+    
+    <lastmod>2023-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/copyright/index.html</loc>
+    
+    <lastmod>2023-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/dailyPhoto/index.html</loc>
+    
+    <lastmod>2023-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/equipment/index.html</loc>
+    
+    <lastmod>2023-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/essay/index.html</loc>
+    
+    <lastmod>2023-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/fcircle/index.html</loc>
     
     <lastmod>2023-09-17</lastmod>
     
@@ -147,60 +201,6 @@
   
   <url>
     <loc>https://blog.lzh.life/categories/index.html</loc>
-    
-    <lastmod>2023-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/cookies/index.html</loc>
-    
-    <lastmod>2023-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/copyright/index.html</loc>
-    
-    <lastmod>2023-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/dailyPhoto/index.html</loc>
-    
-    <lastmod>2023-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/equipment/index.html</loc>
-    
-    <lastmod>2023-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/essay/index.html</loc>
-    
-    <lastmod>2023-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/fcircle/index.html</loc>
     
     <lastmod>2023-09-17</lastmod>
     
