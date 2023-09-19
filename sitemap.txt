@@ -1,9 +1,9 @@
-https://blog.lzh.life/privacy/index.html
-https://blog.lzh.life/server-list/index.html
-https://blog.lzh.life/tags/index.html
 https://blog.lzh.life/update/index.html
 https://blog.lzh.life/wechat/index.html
 https://blog.lzh.life/wordScenery/index.html
+https://blog.lzh.life/privacy/index.html
+https://blog.lzh.life/server-list/index.html
+https://blog.lzh.life/tags/index.html
 https://blog.lzh.life/manifest.json
 https://blog.lzh.life/json/music.json
 https://blog.lzh.life/link/index.html
