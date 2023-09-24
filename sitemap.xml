@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.lzh.life/privacy/index.html</loc>
-    
-    <lastmod>2023-09-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.lzh.life/server-list/index.html</loc>
     
     <lastmod>2023-09-24</lastmod>
@@ -48,6 +39,15 @@
   
   <url>
     <loc>https://blog.lzh.life/wordScenery/index.html</loc>
+    
+    <lastmod>2023-09-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/privacy/index.html</loc>
     
     <lastmod>2023-09-24</lastmod>
     
@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://blog.lzh.life/archives/10000.html</loc>
+    <loc>https://blog.lzh.life/archives/30441.html</loc>
     
     <lastmod>2023-09-24</lastmod>
     
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://blog.lzh.life/archives/30441.html</loc>
+    <loc>https://blog.lzh.life/archives/10000.html</loc>
     
     <lastmod>2023-09-24</lastmod>
     
@@ -246,20 +246,6 @@
   </url>
   
   <url>
-    <loc>https://blog.lzh.life/tags/Hexo/</loc>
-    <lastmod>2023-09-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/tags/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/</loc>
-    <lastmod>2023-09-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.lzh.life/tags/%E8%AF%97%E6%AD%8C/</loc>
     <lastmod>2023-09-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -268,6 +254,20 @@
   
   <url>
     <loc>https://blog.lzh.life/tags/%E6%B5%B7%E5%AD%90/</loc>
+    <lastmod>2023-09-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/tags/Hexo/</loc>
+    <lastmod>2023-09-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/tags/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/</loc>
     <lastmod>2023-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -283,14 +283,14 @@
   </url>
   
   <url>
-    <loc>https://blog.lzh.life/categories/Hexo/</loc>
+    <loc>https://blog.lzh.life/categories/%E8%AF%97%E9%9B%86/</loc>
     <lastmod>2023-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.lzh.life/categories/%E8%AF%97%E9%9B%86/</loc>
+    <loc>https://blog.lzh.life/categories/Hexo/</loc>
     <lastmod>2023-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
