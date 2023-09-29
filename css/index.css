@@ -13563,6 +13563,7 @@ h1.page-title + .tag-cloud-list {
   #pagination.pagination-post .prev-post.pull-full img,
   #pagination.pagination-post .next-post.pull-right img,
   #pagination.pagination-post .next-post.pull-full img {
+    display: none;
     top: 0;
   }
   #pagination.pagination-post .prev-post.pull-left .pagination-info,
