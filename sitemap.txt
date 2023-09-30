@@ -1,4 +1,5 @@
 https://blog.lzh.life/privacy/index.html
+https://blog.lzh.life/rss/index.html
 https://blog.lzh.life/server-list/index.html
 https://blog.lzh.life/tags/index.html
 https://blog.lzh.life/update/index.html
