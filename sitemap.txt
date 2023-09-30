@@ -1,6 +1,5 @@
 https://blog.lzh.life/privacy/index.html
 https://blog.lzh.life/server-list/index.html
-https://blog.lzh.life/tags/index.html
 https://blog.lzh.life/update/index.html
 https://blog.lzh.life/wechat/index.html
 https://blog.lzh.life/wordScenery/index.html
@@ -14,7 +13,6 @@ https://blog.lzh.life/archives/1000.html
 https://blog.lzh.life/about/index.html
 https://blog.lzh.life/air-conditioner/index.html
 https://blog.lzh.life/album/index.html
-https://blog.lzh.life/categories/index.html
 https://blog.lzh.life/cookies/index.html
 https://blog.lzh.life/copyright/index.html
 https://blog.lzh.life/dailyPhoto/index.html
