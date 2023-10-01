@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.lzh.life/privacy/index.html</loc>
+    
+    <lastmod>2023-10-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.lzh.life/rss/index.html</loc>
     
     <lastmod>2023-10-01</lastmod>
@@ -56,15 +65,6 @@
   </url>
   
   <url>
-    <loc>https://blog.lzh.life/privacy/index.html</loc>
-    
-    <lastmod>2023-10-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.lzh.life/manifest.json</loc>
     
     <lastmod>2023-10-01</lastmod>
@@ -93,42 +93,6 @@
   
   <url>
     <loc>https://blog.lzh.life/music/index.html</loc>
-    
-    <lastmod>2023-10-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/archives/1001.html</loc>
-    
-    <lastmod>2023-10-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/archives/1002.html</loc>
-    
-    <lastmod>2023-10-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/archives/1000.html</loc>
-    
-    <lastmod>2023-10-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/about/index.html</loc>
     
     <lastmod>2023-10-01</lastmod>
     
@@ -219,6 +183,42 @@
   
   <url>
     <loc>https://blog.lzh.life/fcircle/index.html</loc>
+    
+    <lastmod>2023-10-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/archives/1001.html</loc>
+    
+    <lastmod>2023-10-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/archives/1002.html</loc>
+    
+    <lastmod>2023-10-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/archives/1000.html</loc>
+    
+    <lastmod>2023-10-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/about/index.html</loc>
     
     <lastmod>2023-10-01</lastmod>
     
