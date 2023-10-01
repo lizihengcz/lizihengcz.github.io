@@ -2,7 +2,9 @@ https://blog.lzh.life/privacy/index.html
 https://blog.lzh.life/rss/index.html
 https://blog.lzh.life/server-list/index.html
 https://blog.lzh.life/tags/index.html
+https://blog.lzh.life/thousand/index.html
 https://blog.lzh.life/update/index.html
+https://blog.lzh.life/wallpaper/index.html
 https://blog.lzh.life/wechat/index.html
 https://blog.lzh.life/wordScenery/index.html
 https://blog.lzh.life/manifest.json
@@ -34,7 +36,7 @@ https://blog.lzh.life/tags/Hexo/
 https://blog.lzh.life/tags/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/
 https://blog.lzh.life/categories/%E8%AF%95%E5%8D%B7%E8%A7%A3%E7%AD%94%E4%B8%8E%E8%AF%84%E4%BB%B7/
 https://blog.lzh.life/categories/%E8%AF%97%E9%9B%86/
-https://blog.lzh.life/categories/%E9%97%B2%E8%81%8A%E6%9D%82%E8%B0%88/
 https://blog.lzh.life/categories/%E5%AD%A6%E4%B9%A0/
 https://blog.lzh.life/categories/%E7%94%9F%E6%B4%BB/
+https://blog.lzh.life/categories/%E9%97%B2%E8%81%8A%E6%9D%82%E8%B0%88/
 https://blog.lzh.life/categories/%E5%BC%80%E5%8F%91/
