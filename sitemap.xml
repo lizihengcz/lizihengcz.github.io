@@ -2,42 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.lzh.life/update/index.html</loc>
-    
-    <lastmod>2023-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/wallpaper/index.html</loc>
-    
-    <lastmod>2023-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/wechat/index.html</loc>
-    
-    <lastmod>2023-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/wordScenery/index.html</loc>
-    
-    <lastmod>2023-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.lzh.life/privacy/index.html</loc>
     
     <lastmod>2023-10-02</lastmod>
@@ -83,6 +47,42 @@
   </url>
   
   <url>
+    <loc>https://blog.lzh.life/update/index.html</loc>
+    
+    <lastmod>2023-10-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/wallpaper/index.html</loc>
+    
+    <lastmod>2023-10-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/wechat/index.html</loc>
+    
+    <lastmod>2023-10-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/wordScenery/index.html</loc>
+    
+    <lastmod>2023-10-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.lzh.life/manifest.json</loc>
     
     <lastmod>2023-10-02</lastmod>
@@ -111,33 +111,6 @@
   
   <url>
     <loc>https://blog.lzh.life/music/index.html</loc>
-    
-    <lastmod>2023-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/air-conditioner/index.html</loc>
-    
-    <lastmod>2023-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/album/index.html</loc>
-    
-    <lastmod>2023-10-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/categories/index.html</loc>
     
     <lastmod>2023-10-02</lastmod>
     
@@ -237,6 +210,33 @@
   
   <url>
     <loc>https://blog.lzh.life/about/index.html</loc>
+    
+    <lastmod>2023-10-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/air-conditioner/index.html</loc>
+    
+    <lastmod>2023-10-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/album/index.html</loc>
+    
+    <lastmod>2023-10-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/categories/index.html</loc>
     
     <lastmod>2023-10-02</lastmod>
     
