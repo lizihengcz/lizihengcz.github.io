@@ -11,6 +11,9 @@ https://blog.lzh.life/manifest.json
 https://blog.lzh.life/json/music.json
 https://blog.lzh.life/link/index.html
 https://blog.lzh.life/music/index.html
+https://blog.lzh.life/archives/1001.html
+https://blog.lzh.life/archives/1003.html
+https://blog.lzh.life/archives/1002.html
 https://blog.lzh.life/archives/1004.html
 https://blog.lzh.life/archives/1000.html
 https://blog.lzh.life/about/index.html
@@ -24,9 +27,6 @@ https://blog.lzh.life/docs/index.html
 https://blog.lzh.life/equipment/index.html
 https://blog.lzh.life/essay/index.html
 https://blog.lzh.life/fcircle/index.html
-https://blog.lzh.life/archives/1001.html
-https://blog.lzh.life/archives/1003.html
-https://blog.lzh.life/archives/1002.html
 https://blog.lzh.life/
 https://blog.lzh.life/tags/%E4%B8%AD%E8%80%83/
 https://blog.lzh.life/tags/%E6%95%B0%E5%AD%A6/
