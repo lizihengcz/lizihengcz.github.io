@@ -47,25 +47,7 @@
   </url>
   
   <url>
-    <loc>https://blog.lzh.life/thousand/index.html</loc>
-    
-    <lastmod>2026-08-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.lzh.life/update/index.html</loc>
-    
-    <lastmod>2026-08-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/wallpaper/index.html</loc>
     
     <lastmod>2026-08-20</lastmod>
     
@@ -83,7 +65,16 @@
   </url>
   
   <url>
-    <loc>https://blog.lzh.life/wordScenery/index.html</loc>
+    <loc>https://blog.lzh.life/message/index.html</loc>
+    
+    <lastmod>2026-08-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lzh.life/music/index.html</loc>
     
     <lastmod>2026-08-20</lastmod>
     
@@ -102,24 +93,6 @@
   
   <url>
     <loc>https://blog.lzh.life/json/music.json</loc>
-    
-    <lastmod>2026-08-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/music/index.html</loc>
-    
-    <lastmod>2026-08-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/dailyPhoto/index.html</loc>
     
     <lastmod>2026-08-20</lastmod>
     
@@ -147,15 +120,6 @@
   
   <url>
     <loc>https://blog.lzh.life/essay/index.html</loc>
-    
-    <lastmod>2026-08-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lzh.life/fcircle/index.html</loc>
     
     <lastmod>2026-08-20</lastmod>
     
